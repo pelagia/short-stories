@@ -1,4 +1,4 @@
-## How much land does a man need?
+## How much land does a man need? by Tolstoy
 
 The ambitious peasant Pakhom, who, after
 gaining ever greater plots of land, finally heard of a
