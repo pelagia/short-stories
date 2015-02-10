@@ -11,3 +11,4 @@
 * [The travelling monks at the river] (https://github.com/arashafiei/short-stories/blob/master/inspiring/travelling-monks.md)
 * [Two Seeds] (https://github.com/arashafiei/short-stories/blob/master/inspiring/two-seeds.md)
 * [The Stonecutter] (https://github.com/arashafiei/short-stories/blob/master/inspiring/the-stonecutter.md)
+* [An old Hindu legend] (https://github.com/arashafiei/short-stories/blob/master/inspiring/old-hindu-legend.md)
