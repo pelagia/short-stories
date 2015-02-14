@@ -9,7 +9,7 @@
 
 ##Behrangi
 
-* [The little black fish] ()
+* [The little black fish] (https://github.com/arashafiei/short-stories/blob/master/behrangi/the-little-black-fish.md)
 
 ##Inspiring
 
