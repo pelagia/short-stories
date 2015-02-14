@@ -14,4 +14,4 @@
 * [Two Seeds] (https://github.com/arashafiei/short-stories/blob/master/inspiring/two-seeds.md)
 * [The Stonecutter] (https://github.com/arashafiei/short-stories/blob/master/inspiring/the-stonecutter.md)
 * [An old Hindu legend] (https://github.com/arashafiei/short-stories/blob/master/inspiring/old-hindu-legend.md)
-* [The strongest man] (https://github.com/arashafiei/short-stories/blob/master/inspiring/strongest-man.md)
+* [The strongest man on the island] (https://github.com/arashafiei/short-stories/blob/master/inspiring/strongest-man.md)
