@@ -1,7 +1,6 @@
 
 #The Little Black Fish
-## By: Samad Behrangi
-
+### By Samad Behrangi
 
 
 The Little Black Fish; painting by: Farshid Mesqali It was the longest night of winter. At the bottom of the sea an old fish gathered together 12,000 of her children and grandchildren and began to tell them this story: 
@@ -288,5 +287,4 @@ The black fish stopped talking and began tossing back and forth and tickling the
 The old fish finished her tale and said to her 12,000 children and grandchildren, "Now it's time to sleep, children. Go to bed."
 "Grandmother!" exclaimed the children and grand-children, "You didn't say what happened to that tiny fish."
 "We'll leave that for tomorrow night," said the old fish. "Now, it's time for bed. Goodnight."
-Eleven thousand, nine hundred and ninety-nine little fish said goodnight and went to sleep. The grandmother fell asleep too. But try as she might, a little red fish couldn't get to sleep. All night long she thought about the sea ..... 
-- See more at: http://www.iranchamber.com/literature/sbehrangi/works/the_little_black_fish.php#sthash.dwK3o1Ef.dpuf
+Eleven thousand, nine hundred and ninety-nine little fish said goodnight and went to sleep. The grandmother fell asleep too. But try as she might, a little red fish couldn't get to sleep. All night long she thought about the sea ...
