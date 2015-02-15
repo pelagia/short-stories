@@ -1,5 +1,9 @@
 ## Two Pitchers
 
+According to a Hindu legend... once upon a time there was a man who carried water every day in two pitchers from one village to his place. He fixed the two pitchers to two sides of a stick and he put the stick on his shoulder. One of the pitchers was older than the other one and it had small cracks on it. Every time the man goes on his way home, half of the water of the old pitcher leaks. The man was carrying the water for two years. The young and healthy pitcher one day was proud that he accomplished fully the responsibility that he was created for. But the old pitcher was ashamed that he could do only half of the responsibility he was assigned to do. He was so ashamed that one day he decided to talk the man sharing his grief. He said to the man: "I really apologize. I am really sorry that all the time you were using me, you only benefited from half of the volume I could carry. I could only quench the thirst of half the people waiting at home." The man laughed and he told the pitcher to look carefully the road when they are going back home this time. When they were going back the old pitcher observed the road and realized that his side of the road is much more green and beautiful than the other side. The man said: "I always knew that you had a crack but I decided not to fix you. Instead I plant flowers in your side so that you can water them all the way we were going home. If you did not have a crack how could this road become so beautiful?"
+
+## دو کوزه 
+
 در افسانه ای هندی آمده است که مردی هر روز دو کوزه بزرگ آب به دو انتهای چوبی می بست...چوب را روی شانه اش می گذاشت و برای خانه اش آب می برد. 
 یکی از کوزه ها کهنه تر بود و ترک های کوچکی داشت. هربار که مرد مسیر خانه اش را می پیمود نصف آب کوزه می ریخت.
 مرد دو سال تمام همین کار را می کرد. کوزه سالم و نو مغرور بود که وظیفه ای را که به خاطر انجام آن خلق شده به طورکامل انجام می دهد. اما کوزه کهنه و ترک خورده شرمنده بود که فقط می تواندنصف وظیفه اش را انجام دهد.
