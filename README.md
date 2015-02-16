@@ -23,3 +23,4 @@
 * [17 Camels] (https://github.com/arashafiei/short-stories/blob/master/inspiring/17-camels.md)
 * [Once a thief] (https://github.com/arashafiei/short-stories/blob/master/inspiring/once-a-thief.md)
 * [The fishermen] (https://github.com/arashafiei/short-stories/blob/master/inspiring/fishermen.md)
+* [The mousetrap] (https://github.com/arashafiei/short-stories/blob/master/inspiring/mousetrap.md)
