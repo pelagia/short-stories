@@ -24,3 +24,4 @@
 * [Once a thief] (https://github.com/arashafiei/short-stories/blob/master/inspiring/once-a-thief.md)
 * [The fishermen] (https://github.com/arashafiei/short-stories/blob/master/inspiring/fishermen.md)
 * [The mousetrap] (https://github.com/arashafiei/short-stories/blob/master/inspiring/mousetrap.md)
+* [The farmer's watch] (https://github.com/arashafiei/short-stories/blob/master/inspiring/farmer-watch.md)
