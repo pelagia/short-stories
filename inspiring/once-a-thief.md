@@ -1,4 +1,5 @@
 ## Once a thief
+### by Ruskin Bond
 
 I was still a thief when I met Arun. And though I was only fifteen years old, 
 I was an experienced and fairly successful hand. Arun was watching a 
