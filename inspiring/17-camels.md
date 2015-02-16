@@ -34,7 +34,3 @@ Now add this up:
 9 + 6 + 2 = 17 &
 This leaves 1 camel,
 which the wise man took back.
-
-Moral: The attitude of negotiation & problem solving is to find the 18th camel i.e. the common ground. Once a person is able to find the common ground, the issue is resolved. It is difficult at times.
-
-However, to reach a solution, the first step is to believe that there is a solution. If we think that there is no solution, we won’t be able to reach any!
