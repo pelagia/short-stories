@@ -27,3 +27,4 @@
 * [The farmer's watch] (https://github.com/arashafiei/short-stories/blob/master/inspiring/farmer-watch.md)
 * [The monkey story] (https://github.com/arashafiei/short-stories/blob/master/inspiring/monkey-story.md)
 * [The egg] (https://github.com/arashafiei/short-stories/blob/master/inspiring/the-egg.md)
+* [Greed by Khaled Hosseini] (https://github.com/arashafiei/short-stories/blob/master/inspiring/greed.md)
