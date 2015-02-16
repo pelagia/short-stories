@@ -13,5 +13,3 @@ The farmer looked at him and thought, Why not? After all, this kid looks sincere
 So the farmer sent the little boy back in the barn. After a while the little boy came out with the watch in his hand! The farmer was both happy and surprised and so he asked the boy how he succeeded where the rest had failed.
 
 The boy replied, I did nothing but sit on the ground and listen. In the silence, I heard the ticking of the watch and just looked for it in that direction.
-
-A peaceful mind can think better than a worked up mind. Allow a few minutes of silence to your mind every day, and see, how sharply it helps you to set your life the way you expect it to be!
