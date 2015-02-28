@@ -13,6 +13,7 @@
 ##Realistic
 
 * [Cookies by Douglas Adams] (https://github.com/arashafiei/short-stories/blob/master/realistic/cookies.md)
+* [Once a thief] (https://github.com/arashafiei/short-stories/blob/master/realistic/once-a-thief.md)
 
 ##Inspiring
 
@@ -25,7 +26,6 @@
 * [The strongest man on the island] (https://github.com/arashafiei/short-stories/blob/master/inspiring/strongest-man.md)
 * [Two pitchers] (https://github.com/arashafiei/short-stories/blob/master/inspiring/two-pitchers.md)
 * [17 Camels] (https://github.com/arashafiei/short-stories/blob/master/inspiring/17-camels.md)
-* [Once a thief] (https://github.com/arashafiei/short-stories/blob/master/inspiring/once-a-thief.md)
 * [The fishermen] (https://github.com/arashafiei/short-stories/blob/master/inspiring/fishermen.md)
 * [The mousetrap] (https://github.com/arashafiei/short-stories/blob/master/inspiring/mousetrap.md)
 * [The farmer's watch] (https://github.com/arashafiei/short-stories/blob/master/inspiring/farmer-watch.md)
