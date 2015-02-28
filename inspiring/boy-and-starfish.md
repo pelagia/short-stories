@@ -1,4 +1,4 @@
-## The boy and the Starfish
+## The Boy and the Starfish
 
 A man was walking along a deserted beach at sunset. As he walked he could see a young boy in the distance, as he drew nearer he noticed that the boy kept bending down, picking something up and throwing it into the water.
 Time and again he kept hurling things into the ocean.
