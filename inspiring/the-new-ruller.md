@@ -1,4 +1,4 @@
-## The new ruller
+## The new ruler
 
 The king of Rajhgarh had grown old and was counting his last days. He had two sons..
 
