@@ -2,7 +2,7 @@
 
 ## Rumi
 
-* [The Song of the Reed] (https://github.com/arashafiei/short-stories/blob/master/rumi/song-of-reed.md)
+* [The song of the reed] (https://github.com/arashafiei/short-stories/blob/master/rumi/song-of-reed.md)
 * [The rabbit and the lion] (https://github.com/arashafiei/short-stories/blob/master/rumi/rabbit-and-lion.md)
 * [The grocer and the parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/grocer-and-parrot.md)
 * [The grammarian and the boatman] (https://github.com/arashafiei/short-stories/blob/master/rumi/grammarian-and-boatman.md)
