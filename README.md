@@ -11,6 +11,7 @@
 * [Omar and the man who thought he saw the new moon] (https://github.com/arashafiei/short-stories/blob/master/rumi/one-who-saw-moon.md)
 * [The Lion Tatoo] (https://github.com/arashafiei/short-stories/blob/master/rumi/lion-tatoo.md)
 * [The Lion's Share] (https://github.com/arashafiei/short-stories/blob/master/rumi/lion-share.md)
+* [The Deaf Man and his Ill Neigbour] (https://github.com/arashafiei/short-stories/blob/master/rumi/deafman-and-neighbor.md)
 
 ##Tolstoy
 
