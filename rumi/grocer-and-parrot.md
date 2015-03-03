@@ -1,4 +1,6 @@
-0nce, a grocer had a talkative, green parrot with a beautifid voice.
+## The grocer and the parrot
+
+Once, a grocer had a talkative, green parrot with a beautifid voice.
 The parrot stayed in the grocer's shop all day long, enter-taining the customers with delightful words and jokes.
 The parrot, who knew how to speak with people just like a human, was also an expert at chirping melodies.
 One day, the gro-cer had to leave his shop for a short while to go on an errand.
@@ -22,3 +24,9 @@ All the passers-by who heard this began to laugh.
 The parrot apparently believed that this ascetic, a man who had donned a vest and shaved his head for spiritual reasons, 
 was bald because he had spilled a bottle of rose oil and been slapped by his master, just like the parrot! 
 
+## حکایت مرد بقال و طوطی و روغن ریختن طوطی در دکان 
+
+بقالی طوطی زیبا و خوش نوایی داشت و با مشتریان نکته ها می گفت و آنان را به خود سرگرم می داشت و هروقت که بقال از دکان بیرون می رفت طوطی مواظب دکانش می شد . 
+روزی طوطی در دکان به پرواز در آمد و شیشه های روغن گل را بر زمین ریخت . بقال ضربتی بر سر طوطی نواخت که پرهای سرش فرو ریخت و تا چند روز از سخن گفتن و بانگ بر آوردن خود داری کرد و این گذشت تا اینکه روزی مرد طاسی از کنار دکان می گذشت و همینکه چشم طوطی به او اقتاد خیال کرد که طاسی آن نیز سببی مانند طاسی او دارد پس ناگهان طوطی به سخن آمد و از آن مرد پرسید تو مگر از شیشه روغن ریختی؟ مردم از شنیدن این سخن و مقایسه طوطی به خنده افتادند زیرا که طوطی قیاس نابجا کرده بود و طاسی خود را با طاسی آن مرد یکی فرض کرده بود.
+
+مولانا در این داستان ضمن ایراد نکته های ظریف عرفانی قیاس ناروا و مقایسه های بیجایی که معمولا میان مردم رواج دارد مورد نقد قرار داده است .
