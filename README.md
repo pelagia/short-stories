@@ -3,6 +3,7 @@
 ## Rumi
 
 * [The grammarian and the boatman] (https://github.com/arashafiei/short-stories/blob/master/rumi/grammarian-and-boatman.md)
+* [The man who said, 'It is I'] (https://github.com/arashafiei/short-stories/blob/master/rumi/one-who-said-it-is-i.md)
 
 ##Tolstoy
 
