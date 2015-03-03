@@ -7,6 +7,7 @@
 * [The grocer and the parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/grocer-and-parrot.md)
 * [The grammarian and the boatman] (https://github.com/arashafiei/short-stories/blob/master/rumi/grammarian-and-boatman.md)
 * [The man who said, 'It is I'] (https://github.com/arashafiei/short-stories/blob/master/rumi/man-who-said-it-is-i.md)
+* [The merchant and parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/merchant-and-parrot.md)
 
 ##Tolstoy
 
