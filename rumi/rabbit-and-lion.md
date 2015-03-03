@@ -1,4 +1,4 @@
-## The rabbit and the Lion
+## The rabbit and the lion
 
 The herd of wild animals that had come to graze in the beautiful meadow did so crouched down in fear of a lion. Indeed, a lion often laid an ambush in this meadow, snatching up and carrying away one of the animals. So, the fertile pasture was spoiled for them. The poor animals wracked their brains until at last they went to the lion and offered to bring him anything he wanted to eat, as long as he would not touch them. However, the lion, wise in the ways of the world, realized that they might be laying a trap for him and did not accept their offer. "I prefer to earn my own living," he said. The animals swore to be true to their word and finally succeeded in convincing the lion. According to their agreement, the lion's portion was to be brought before him each day without any trouble. The animals would draw lots to determine which one of them was to become the lion's meal so that the others could graze in peace.
 
