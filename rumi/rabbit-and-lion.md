@@ -8,7 +8,7 @@ The other wild animals urged the rabbit, -All this time we've remained true to o
 
 The rabbit headed toward where the lion lived and arrived just a little late. Upon seeing his prey come late, the lion roared violently and clawed the earth. He was thinking that he was wrong to have made a deal with the animals. Besides, this rabbit was heading toward him with very slow hops. The lion steamed up and boiled over with anger as he watched the rabbit coming from far away. Seeing the rabbit's relaxed demeanor, he exploded. "Just who do you think you are? I've torn apart elephants, not to mention a thousand or so rabbits," he roared.
 
-The rabbit begged the lion to forgive him and offered his excuse: "Honestly, my lord. I set out early this morning. With another rabbit as my companion, I was hurrying to your presence, when along the way; we were attacked by another lion. I begged and pleaded. 'Don't kill us. We are slaves of the King of kings,' I said. 'Who is that king?' die strange lion replied. 'I'll tear him to pieces.'
+The rabbit begged the lion to forgive him and offered his excuse: "Honestly, my lord. I set out early this morning. With another rabbit as my companion, I was hurrying to your presence, when along the way; we were attacked by another lion. I begged and pleaded. 'Don't kill us. We are slaves of the King of kings,' I said. 'Who is that king?' the strange lion replied. 'I'll tear him to pieces.'
 
 'Just let me see my king one last time and I'll tell him about you,' I said. 'If you leave your friend as a hostage, I'll let you go,' the strange lion replied. All my begging and pleading was useless; he took my friend and let me go. Of course, my friend is very attractive and also two times plumper than I am." 
 
