@@ -3,10 +3,9 @@
 ## Rumi
 
 * [The Song of the Reed] (https://github.com/arashafiei/short-stories/blob/master/rumi/song-of-reed.md)
-* [The shopkeeper and the parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/parrot-and-shopkeeper.md)
+* [The grocer and the parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/grocer-and-parrot.md)
 * [The grammarian and the boatman] (https://github.com/arashafiei/short-stories/blob/master/rumi/grammarian-and-boatman.md)
 * [The man who said, 'It is I'] (https://github.com/arashafiei/short-stories/blob/master/rumi/man-who-said-it-is-i.md)
-
 
 ##Tolstoy
 
