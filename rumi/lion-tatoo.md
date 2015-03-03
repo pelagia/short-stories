@@ -1,5 +1,6 @@
 ## The Lion Tatoo
 by Rumi
+
 Translated by Ali Fuat Bilkan
 
 Long ago, it was a common custom to have a tattoo. Those who had various images and designs drawn on their hands, feet and shoulders would moan and groan at the pain caused by the needle which made the blue tattoos. One day, a man wanting a tattoo on his shoulder said to the tattooist, "Give me a tat-too gently, without hurting me." The tattooist asked, "Young man, what image would you like me to prick onto your skin?" "Draw a roaring lion, because my birth sign is Leo!" said the young man. But make it a handsome lion." "Where would you like the tattoo?" asked the tattooist. On my shoulder blade," answered the young man. 
