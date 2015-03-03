@@ -2,14 +2,15 @@
 
 ## Rumi
 
-* [The song of the reed] (https://github.com/arashafiei/short-stories/blob/master/rumi/song-of-reed.md)
-* [The rabbit and the lion] (https://github.com/arashafiei/short-stories/blob/master/rumi/rabbit-and-lion.md)
-* [The grocer and the parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/grocer-and-parrot.md)
-* [The grammarian and the boatman] (https://github.com/arashafiei/short-stories/blob/master/rumi/grammarian-and-boatman.md)
-* [The man who said, 'It is I'] (https://github.com/arashafiei/short-stories/blob/master/rumi/man-who-said-it-is-i.md)
-* [The merchant and parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/merchant-and-parrot.md)
+* [The Song of the Reed] (https://github.com/arashafiei/short-stories/blob/master/rumi/song-of-reed.md)
+* [The Rabbit and the Lion] (https://github.com/arashafiei/short-stories/blob/master/rumi/rabbit-and-lion.md)
+* [The Grocer and the Parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/grocer-and-parrot.md)
+* [The Grammarian and the Boatman] (https://github.com/arashafiei/short-stories/blob/master/rumi/grammarian-and-boatman.md)
+* [The Man Who Said, 'It is I'] (https://github.com/arashafiei/short-stories/blob/master/rumi/man-who-said-it-is-i.md)
+* [The Merchant and Parrot] (https://github.com/arashafiei/short-stories/blob/master/rumi/merchant-and-parrot.md)
 * [Omar and the man who thought he saw the new moon] (https://github.com/arashafiei/short-stories/blob/master/rumi/one-who-saw-moon.md)
-* [The lion tatoo] (https://github.com/arashafiei/short-stories/blob/master/rumi/lion-tatoo.md)
+* [The Lion Tatoo] (https://github.com/arashafiei/short-stories/blob/master/rumi/lion-tatoo.md)
+* [The Lion's Share] (https://github.com/arashafiei/short-stories/blob/master/rumi/lion-share.md)
 
 ##Tolstoy
 
