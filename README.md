@@ -1,5 +1,9 @@
 # Short Stories
 
+## Rumi
+
+* [The grammarian and the boatman] (https://github.com/arashafiei/short-stories/blob/master/rumi/grammarian-and-boatman.md)
+
 ##Tolstoy
 
 * [Three questions](https://github.com/arashafiei/short-stories/blob/master/tolstoy/three-questions.md)
