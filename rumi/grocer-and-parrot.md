@@ -4,7 +4,7 @@ Once, a grocer had a talkative parrot with a beautiful voice. The parrot stayed 
 
 One day as the parrot was flitting about on its own in the shop, it suddenly knocked over a huge bottle of rose oil. Angered by the parrot's naughty antics, the grocer slapped the bird on the head. The parrot was very upset by this blow. He stopped talking and singing and soon after, it began to lose the feathers of its head and became bald.
 
-Few days later, a bald man came in the shop. Breaking its long silence, the parrot suddenly began to squawk with excitement, "Hey, baldy! Look at me! Did you knock over a bottle of rose oil, too?" All the passers-by who heard this began to laugh. The parrot apparently believed that the was bald because he had spilled a bottle of rose oil and been slapped by his master, just like the parrot!
+Few days later, a bald man came in the shop. Breaking its long silence, the parrot suddenly began to squawk with excitement, "Hey, baldy! Look at me! Did you knock over a bottle of rose oil, too?" All the passers-by who heard this began to laugh. The parrot apparently believed that the man was bald because he had spilled a bottle of rose oil and been slapped by his master, just like the parrot!
 
 
 ## حکایت مرد بقال و طوطی و روغن ریختن طوطی در دکان 
