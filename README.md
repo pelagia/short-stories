@@ -10,8 +10,9 @@
 * [The Lion Tatoo] (https://github.com/arashafiei/short-stories/blob/master/rumi/lion-tatoo.md)
 * [The Lion's Share] (https://github.com/arashafiei/short-stories/blob/master/rumi/lion-share.md)
 * [The Man Who Said, 'It is I'] (https://github.com/arashafiei/short-stories/blob/master/rumi/man-who-said-it-is-i.md)
-* [Omar and the man who thought he saw the new moon] (https://github.com/arashafiei/short-stories/blob/master/rumi/one-who-saw-moon.md)
+ (https://github.com/arashafiei/short-stories/blob/master/rumi/one-who-saw-moon.md)
 * [The Deaf Man and his Ill Neigbour] (https://github.com/arashafiei/short-stories/blob/master/rumi/deafman-and-neighbor.md)
+* [Omar and the man who thought he saw the new moon]
 
 ##Tolstoy
 
