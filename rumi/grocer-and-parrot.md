@@ -1,4 +1,4 @@
-## The grocer and the parrot
+## The Grocer and the Parrot
 
 A grocer possessed a talkative parrot which used to amuse him with its delightful words and jokes, and to watch his shop when he went out.
 
