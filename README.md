@@ -19,6 +19,11 @@
 * [How much land does a man need?] (https://github.com/arashafiei/short-stories/blob/master/tolstoy/how-much-land.md)
 * [The coffee house of Surat] (https://github.com/arashafiei/short-stories/blob/master/tolstoy/coffee-house-of-surat.md)
 
+## Khalil Gibran
+
+* [How I became a Madman] ()
+* [Man in Asylum] (https://github.com/arashafiei/short-stories/blob/master/gibran/man-in-asylum.md)
+
 ##Behrangi
 
 * [The little black fish] (https://github.com/arashafiei/short-stories/blob/master/behrangi/the-little-black-fish.md)
@@ -49,4 +54,3 @@
 * [The new ruler] (https://github.com/arashafiei/short-stories/blob/master/inspiring/the-new-ruller.md)
 * [The Boy and the Starfish] (https://github.com/arashafiei/short-stories/blob/master/inspiring/boy-and-starfish.md)
 * [A sculptor] (https://github.com/arashafiei/short-stories/blob/master/inspiring/a-sculptor.md)
-* [Man in Asylum] (https://github.com/arashafiei/short-stories/blob/master/inspiring/man-in-asylum.md)
