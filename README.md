@@ -21,7 +21,7 @@
 
 ## Khalil Gibran
 
-* [How I became a Madman] ()
+* [How I became a Madman] (https://github.com/arashafiei/short-stories/blob/master/gibran/how-i-became-madman.md)
 * [Man in Asylum] (https://github.com/arashafiei/short-stories/blob/master/gibran/man-in-asylum.md)
 
 ##Behrangi
