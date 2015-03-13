@@ -59,4 +59,4 @@
 ## My stories
 
 * [The path]
-* [Chiecken or egg]
+* [Chiecken or egg] (https://github.com/arashafiei/short-stories/blob/master/mystories/chicken-or-egg.md)
