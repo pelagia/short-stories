@@ -58,5 +58,5 @@
 
 ## My stories
 
-* [The path]
+* [The path] (https://github.com/arashafiei/short-stories/blob/master/mystories/the-path.md)
 * [Chiecken or egg] (https://github.com/arashafiei/short-stories/blob/master/mystories/chicken-or-egg.md)
