@@ -54,3 +54,9 @@
 * [The new ruler] (https://github.com/arashafiei/short-stories/blob/master/inspiring/the-new-ruller.md)
 * [The Boy and the Starfish] (https://github.com/arashafiei/short-stories/blob/master/inspiring/boy-and-starfish.md)
 * [A sculptor] (https://github.com/arashafiei/short-stories/blob/master/inspiring/a-sculptor.md)
+* 
+
+## My stories
+
+* [The path]
+* [Chiecken or egg]
